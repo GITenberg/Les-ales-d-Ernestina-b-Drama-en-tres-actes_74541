@@ -1,0 +1,31 @@
+_repo: Les-ales-d-Ernestina-b-Drama-en-tres-actes_74541
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bertrana, Prudenci
+    aliases:
+    - Bertrana, Prudencio
+    - Compte, Prudencio Bertrana y
+    - Comte, Prudenci Bertrana i
+    birthdate: 1867
+    deathdate: 1941
+    gutenberg_agent_id: '7472'
+    url: http://www.gutenberg.org/2009/agents/7472
+    wikipedia: https://ca.wikipedia.org/wiki/Prudenci_Bertrana_i_Comte
+description: ''
+gutenberg_issued: '2024-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74541'
+language: ca
+pgterms:marc905: 20240927110525bertrana
+pgterms:marc906: '1921'
+pgterms:marc907: ES
+production_note: 'editor digital: Joan Queralt Gil'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Les ales d''Ernestina : $b Drama en tres actes'
+url: http://www.gutenberg.org/ebooks/74541
